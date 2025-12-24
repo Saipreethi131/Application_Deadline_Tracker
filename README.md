@@ -13,7 +13,7 @@ A React-based web application to track job, internship, and hackathon applicatio
 - HTML, CSS
 - Vite
 ## Project Structure
-src/
+```src/
 ├── components/
 │   ├── ApplicationForm.jsx   # Controlled form with validation
 │   ├── ApplicationList.jsx   # Renders list or empty state
@@ -22,6 +22,7 @@ src/
 ├── App.jsx                   # Main controller (State, Layout, Routing logic)
 ├── index.css                 # Global Design System (Variables, Reset, Typography)
 └── main.jsx                  # Entry point
+```
 ## Setup
 ```bash
 npm install
